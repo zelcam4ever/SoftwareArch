@@ -1,0 +1,32 @@
+{
+  "hiddenFiles": [
+    "api/zeeguu/core/test/test_data",
+    "api/zeeguu/core/content_retriever",
+    "api/zeeguu/api/endpoints/helpers/__init__.py",
+    "api/zeeguu/core/emailer/__init__.py",
+    "api/zeeguu/core/elastic/__init__.py",
+    "api/zeeguu/core/account_management/__init__.py",
+    "api/zeeguu/core/content_quality/__init__.py",
+    "api/zeeguu/core/exercises/__init__.py",
+    "api/zeeguu/core/language/__init__.py",
+    "api/zeeguu/core/language/strategies/__init__.py",
+    "api/zeeguu/core/user_statistics/__init__.py",
+    "api/zeeguu/core/test/__init__.py",
+    "api/zeeguu/core/test/rules/__init__.py",
+    "api/tools/__init__.py",
+    "api/tools/old/__init__.py",
+    "api/zeeguu/core/sql/__init__.py",
+    "api/zeeguu/core/sql/learner/__init__.py",
+    "api/zeeguu/core/sql/teacher/__init__.py",
+    "api/zeeguu/core/test/tests_difficulty_estimator_strategies/__init__.py",
+    "api/zeeguu/core/word_scheduling/basicSR/__init__.py",
+    "api/zeeguu/core/user_activity_hooks/__init__.py",
+    "api/zeeguu/core/ml_models/binary/tfidf_multi_paywall_detect.joblib"
+  ],
+  "unionedAuthors": [
+    [
+      "Mircea Filip Lungu",
+      "Mircea Lungu"
+    ]
+  ]
+}
